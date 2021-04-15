@@ -1,4 +1,4 @@
-# Front-end Style Guide
+# Front-end Style
 
 ## Layout
 
@@ -19,12 +19,6 @@ Very dark cyan: hsl(179, 100%, 13%)
 
 Transparent white (paragraphs): hsla(0, 0%, 100%, 0.75)
 Very light gray (background, headings, buttons): hsl(0, 0%, 95%)
-
-## Typography
-
-### Body Copy
-
-- Font size: 15px
 
 ### Font
 
